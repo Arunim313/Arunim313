@@ -8,7 +8,7 @@
 - 📫 How to reach me **arunim.malviya.13@gmail.com**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 -  :microscope: Always ready to collaborate in Projects.
-- ⚡ Fun fact **I am more into CP than CPP**
+- ⚡ Fun fact **I am more into CP than CPP.**
 <p><img align = "center" src = "https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /></p>
 <p align="center">
     <a href="https://github.com/arunim313/github-readme-streak-stats">
