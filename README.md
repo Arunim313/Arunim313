@@ -6,7 +6,8 @@
 
 ## 🙋‍♂️ About Me
 - 📫 How to reach me **arunim.malviya.13@gmail.com**
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently exploring the exciting world of Deep Learning and NLP.
+- 💼 I'm dedicated to advancing the field of AI and solving real-world problems.
 -  :microscope: Always ready to collaborate in Projects.
 - ⚡ Fun fact **I am more into CP than CPP.**
 <p><img align = "center" src = "https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /></p>
