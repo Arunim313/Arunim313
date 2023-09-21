@@ -1,5 +1,5 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/hi.gif" width="40px"/> I'm <a href="https://github.com/arunim313" target="_blank">Arunim</a>. Nice to see you 🤩
-    
+<h1 align=center> Hey👋 I'm <a href="https://github.com/arunim313" target="_blank">Arunim</a>. Nice to see you 🤩 </h1>
+
 
 <p align="middle"><img src="https://cutewallpaper.org/21/no-background-gifs/No-Sticker-GIF.gif" width="30"> <img src="https://komarev.com/ghpvc/?username=arunim313&label=Profile%20views&color=0e75b6&style=flat" alt="arunim313" /> </p>
 
