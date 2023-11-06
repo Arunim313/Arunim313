@@ -10,22 +10,26 @@
 - 💼 I'm dedicated to advancing the field of AI and solving real-world problems.
 -  :microscope: Always ready to collaborate in Projects.
 - ⚡ Fun fact **I am more into CP than CPP.**
-<p><img align = "center" src = "https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /></p>
-<p align="center">
+
+
+
+## 🚀 Skills:
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/html.gif" width="70">
+  <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/css.gif" width="70">
+  <img src="https://github.com/Script-Kiddie-JKB/Script-Kiddie-JKB/blob/main/Assets/python.gif" width="70">
+  <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/git.gif" width="130">
+  <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/bootstrap.gif" width="70">
+  <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/github.webp" width="70">
+  <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/vscode.webp" width="70">
+
+## 📊 My Github Stats
+<p align="left">
     <a href="https://github.com/arunim313/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arunim Malviya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arunim313&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-
-## 🚀 Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/github.webp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/vscode.webp" width="40" height="40"/></p>
-
-## 📊 My Github Stats
   <br/>
     <a href="https://github.com/arunim313/github-readme-stats"><img alt="Arunim Malviya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arunim313&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/arunim313/github-readme-stats"><img alt="Arunim Malviya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunim313&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -37,6 +41,7 @@
 <br/>
 <br/>
 
+Feel free to explore my GitHub repositories for more projects and code. If you have any questions or collaborations in mind, don't hesitate to reach out! <img src="https://github.com/Script-Kiddie-JKB/Script-Kiddie-JKB/blob/main/Assets/handshake.gif" width="50">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arunim-malviya-271ba5201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunim malviya" height="30" width="40" /></a>
