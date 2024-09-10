@@ -1,12 +1,11 @@
 <h1 align="center">Hey there! 🕷️ I'm <a href="https://github.com/arunim313" target="_blank">Arunim</a> — just a friendly coder from the web! 🕸️</h1>
 
 <p align="center">
-  <img src="https://cutewallpaper.org/21/spiderman-coding/Spiderman-Coding-GIF.gif" width="50"> 
   <img src="https://komarev.com/ghpvc/?username=arunim313&label=Web%20visits&color=red&style=flat" alt="arunim313" />
 </p>
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5d60ab16-26f5-4931-aa56-1d73c86000ea" width="800" height="400" alt="SpidermanGIF">
+<!--   <img src="https://github.com/user-attachments/assets/5d60ab16-26f5-4931-aa56-1d73c86000ea" width="50" alt="Spiderman GIF"> -->
+<!--   <img src="https://github.com/user-attachments/assets/19a1b840-cdf7-4813-ae16-f3314b69615f" width="100" alt="Spiderman GIF"> -->
 </p>
 
 
