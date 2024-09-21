@@ -11,14 +11,14 @@
 
 ## 🕵️ Who Am I?
 
-I’m a **Data Science Intern** on a mission to conquer data villains and fight crime in the digital space! 🦸‍♂️ By day, I torture data into submission; by night, I swing through lines of code to build innovative, data-driven solutions. I love using Python, Machine Learning, and Data Visualization to unravel the secrets hidden in data!
+I’m a **Data Scientist** on a mission to conquer data villains and fight crime in the digital space! 🦸‍♂️ By day, I torture data into submission; by night, I swing through lines of code to build innovative, data-driven solutions. I love using Python, Machine Learning, and Data Visualization to unravel the secrets hidden in data!
 
 ---
 
 ## 🕸️ My Adventures
 - **Data Science Intern** at *NYX Bangalore Urban, Remote*  
   *(Feb 2024 – Present)*  
-  - Reduced **Cost Per Click (CPC)** by **36%** and increased **Click-Through Rate (CTR)** by **62%** with a predictive model. 🧠📊
+  - Designed a custom multi-task model that simultaneously addresses multiple objectives, enhancing predictive capabilities and operational efficiency.🧠📊
   - Engineered an **ETL pipeline** to extract, transform, and load data from **Google Ads, Meta Ads, and LinkedIn Ads** into a PostgreSQL database, utilizing **Slowly Changing Dimensions (SCD)** to enhance data analysis accuracy by **35%**. 🚀
   - Optimized Python scripts through **multithreading**, achieving a **30% reduction in response time** and implemented web scraping scripts that extracted over **30 million images and videos**. 📈
   - Conducted **QA testing** on over **6 systems** and guided the development of **2 PowerBI** and **3+ Metabase dashboards** for tracking KPIs and supporting data-driven decision-making. 🔍
