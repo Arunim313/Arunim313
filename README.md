@@ -13,6 +13,9 @@
 
 I’m a **Data Scientist** on a mission to conquer data villains and fight crime in the digital space! 🦸‍♂️ By day, I torture data into submission; by night, I swing through lines of code to build innovative, data-driven solutions. I love using Python, Machine Learning, and Data Visualization to unravel the secrets hidden in data!
 
+**🔍 Actively Seeking New Opportunities:**
+I'm currently looking for roles where I can apply my expertise in data science, AI, and blockchain to solve real-world problems. If you have an opening or know of an opportunity, feel free to connect with me!
+
 ---
 
 ## 🕸️ My Adventures
