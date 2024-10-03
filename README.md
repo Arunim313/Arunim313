@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 🕷️ I'm <a href="https://github.com/arunim313" target="_blank">Arunim</a> — just a friendly coder from the web! 🕸️</h1>
+<h1 align="center">Hi! I'm <a href="https://github.com/arunim313" target="_blank">Arunim</a>, a friendly coder from the web! 🕸️</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arunim313&label=Web%20visits&color=red&style=flat" alt="arunim313" />
