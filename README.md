@@ -11,7 +11,7 @@
 
 ## 🕵️ Who Am I?
 
-I’m a **Data Scientist** on a mission to conquer data villains and fight crime in the digital space! 🦸‍♂️ By day, I torture data into submission; by night, I swing through lines of code to build innovative, data-driven solutions. I love using Python, Machine Learning, and Data Visualization to unravel the secrets hidden in data!
+I’m a **Junior Data Scientist** on a mission to conquer data villains and fight crime in the digital space! 🦸‍♂️ By day, I torture data into submission; by night, I swing through lines of code to build innovative, data-driven solutions. I love using Python, Machine Learning, and Data Visualization to unravel the secrets hidden in data!
 
 **🔍 Actively Seeking New Opportunities:**
 I'm currently looking for roles where I can apply my expertise in data science, AI, and blockchain to solve real-world problems. If you have an opening or know of an opportunity, feel free to connect with me!
@@ -19,15 +19,13 @@ I'm currently looking for roles where I can apply my expertise in data science, 
 ---
 
 ## 🕸️ My Adventures
-- **Data Science Intern** at *NYX Bangalore Urban, Remote*  
+- **Jr. Data Scientist** at *NYX Bangalore Urban, Remote*  
   *(Feb 2024 – Present)*  
   - Designed a custom multi-task model that simultaneously addresses multiple objectives, enhancing predictive capabilities and operational efficiency.🧠📊
   - Engineered an **ETL pipeline** to extract, transform, and load data from **Google Ads, Meta Ads, and LinkedIn Ads** into a PostgreSQL database, utilizing **Slowly Changing Dimensions (SCD)** to enhance data analysis accuracy by **35%**. 🚀
   - Optimized Python scripts through **multithreading**, achieving a **30% reduction in response time** and implemented web scraping scripts that extracted over **30 million images and videos**. 📈
   - Conducted **QA testing** on over **6 systems** and guided the development of **2 PowerBI** and **3+ Metabase dashboards** for tracking KPIs and supporting data-driven decision-making. 🔍
   - Led the migration of **20TB of data** from Amazon S3 to Google Cloud Platform (GCP) with **100% data integrity**. 🛠️
-  - And many more data-saving adventures! 🕸️
-
 
 ---
 ## 🎓 My Training Grounds
