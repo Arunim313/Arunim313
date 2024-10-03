@@ -36,7 +36,7 @@ I'm currently looking for roles where I can apply my expertise in data science, 
 ## 🧰 My Utility Belt
 
 - **Languages**: Python, R, SQL, C++
-- **Skills**: Machine Learning, NLP, CNN, Transformers
+- **Skills**: Machine Learning, NLP, CNN, Transformers, Prompt Engineering, Generative AI
 - **Visualization**: PowerBI, Tableau, Matplotlib
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Cloud**: Basic understanding of AWS, Azure
