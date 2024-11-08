@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm <a href="https://github.com/arunim313" target="_blank">Arunim</a>, a friendly coder from the web! 🕸️</h1>
+<h1 align="center">Hi there, I am Arunim Malviya </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arunim313&label=Web%20visits&color=red&style=flat" alt="arunim313" />
@@ -9,7 +9,7 @@
 </p>
 
 
-## 🕵️ Who Am I?
+## About me
 
 I’m a **Junior Data Scientist** on a mission to conquer data villains and fight crime in the digital space! 🦸‍♂️ By day, I torture data into submission; by night, I swing through lines of code to build innovative, data-driven solutions. I love using Python, Machine Learning, and Data Visualization to unravel the secrets hidden in data!
 
