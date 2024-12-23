@@ -24,7 +24,7 @@ I am currently exploring roles where I can apply my skills in Data Science, AI, 
   - Engineered an **ETL pipeline** to extract, transform, and load data from **Google Ads, Meta Ads, and LinkedIn Ads** into a PostgreSQL database, utilizing **Slowly Changing Dimensions (SCD)** to enhance data analysis accuracy by **35%**. 🚀
   - Optimized Python scripts through **multithreading**, achieving a **30% reduction in response time** and implemented web scraping scripts that extracted over **30 million images and videos**. 📈
   - Conducted **QA testing** on over **6 systems** and guided the development of **2 PowerBI** and **3+ Metabase dashboards** for tracking KPIs and supporting data-driven decision-making. 🔍
-  - Led the migration of **20TB of data** from Amazon S3 to Google Cloud Platform (GCP) with **100% data integrity**. 🛠️
+  - Migrated of **10TB of data** from Amazon S3 to Google Cloud Platform (GCP) with **100% data integrity**. 🛠️
 
 ---
 ## 🎓 Education
