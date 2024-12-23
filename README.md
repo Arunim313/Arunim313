@@ -18,7 +18,7 @@ I am currently exploring roles where I can apply my skills in Data Science, AI, 
 ---
 
 ## 💼 Work Experience
-- **Jr. Data Scientist** at *NYX Bangalore Urban, Remote*  
+- **Machine Learning Engineer** at *NYX Bangalore Urban, Remote*  
   *(Feb 2024 – Present)*  
   - Designed a custom multi-task model that simultaneously addresses multiple objectives, enhancing predictive capabilities and operational efficiency.🧠📊
   - Engineered an **ETL pipeline** to extract, transform, and load data from **Google Ads, Meta Ads, and LinkedIn Ads** into a PostgreSQL database, utilizing **Slowly Changing Dimensions (SCD)** to enhance data analysis accuracy by **35%**. 🚀
