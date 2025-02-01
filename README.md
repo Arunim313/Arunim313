@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I am a Junior Data Scientist with a Master’s degree in Artificial Intelligence and Data Science, specializing in technologies such as Machine Learning, Data Science, and Large Language Models (LLMs). I excel at transforming data into actionable insights and developing innovative, AI-driven solutions. Proficient in Python, Machine Learning, and AI, I am passionate about solving complex problems and building scalable systems that deliver meaningful impact.
+I am an AI Engineer with a Master’s degree in Artificial Intelligence and Data Science, specializing in technologies such as Machine Learning, Data Science, and Large Language Models (LLMs). I excel at transforming data into actionable insights and developing innovative, AI-driven solutions. Proficient in Python, Machine Learning, and AI, I am passionate about solving complex problems and building scalable systems that deliver meaningful impact.
 
 🔍 Actively Seeking New Opportunities
 I am currently exploring roles where I can apply my skills in Data Science, AI, LLMs, and GenAI to tackle real-world challenges and drive transformative outcomes. If you have an opening or know of a relevant opportunity, I would love to connect and discuss how I can contribute to your team or organization.
