@@ -35,12 +35,14 @@ I am currently exploring roles where I can apply my skills in Data Science, AI, 
   
 ## 🛠️ Technical Skills
 
-- **Languages**: Python, R, SQL, C++
-- **Skills**: Machine Learning, NLP, CNN, Transformers, Prompt Engineering, Generative AI
-- **Visualization**: PowerBI, Tableau, Matplotlib
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud**: Basic understanding of AWS, Azure
-- **Tools**: Git, GitHub, Bitbucket
+- **Languages:** Python, R, SQL, C++
+- **Machine Learning & AI:** Deep Learning, NLP, CNN, Transformers, Retrieval-Augmented Generation (RAG), Generative AI, Prompt Engineering
+- **LLM Frameworks:** Langchain, CrewAI
+- **Data Engineering:** ETL Pipelines, BigQuery, Data Processing, Workflow Automation
+- **Visualization:** PowerBI, Tableau, Metabase, Graffana
+- **Databases:** MySQL, PostgreSQL, MongoDB, ChromaDB, Vector Databases
+- **Cloud & DevOps:** AWS, GCP, (BigQuery, GCS, Functions), Docker (Basic)
+- **Tools:** Git, GitHub, Bitbucket
 
 ---
 
