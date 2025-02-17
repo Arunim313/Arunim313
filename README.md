@@ -19,7 +19,7 @@ I am currently exploring roles where I can apply my skills in Data Science, AI, 
 
 ## 💼 Work Experience
 - **Machine Learning Engineer** at *NYX Bangalore Urban, Remote*  
-  *(Feb 2024 – Present)*  
+  *(Jan 2024 – Jan 2025)*  
   - Designed a custom multi-task model that simultaneously addresses multiple objectives, enhancing predictive capabilities and operational efficiency.🧠📊
   - Engineered an **ETL pipeline** to extract, transform, and load data from **Google Ads, Meta Ads, and LinkedIn Ads** into a PostgreSQL database, utilizing **Slowly Changing Dimensions (SCD)** to enhance data analysis accuracy by **35%**. 🚀
   - Optimized Python scripts through **multithreading**, achieving a **30% reduction in response time** and implemented web scraping scripts that extracted over **30 million images and videos**. 📈
