@@ -19,11 +19,11 @@ I am currently exploring roles where I can apply my skills in Data Science, AI, 
 
 ## 💼 Work Experience
 
-### **SWE Intern** at [NucleusTeq](#)
+### **SWE Intern** at [NucleusTeq](https://nucleusteq.com/)
 📍 *Remote*  
 🗓 *Jan 2025 – Present*  
 
-### **AI/ML Developer** at [NYX](#)
+### **AI/ML Developer** at [NYX](https://nyx.today/)
 📍 *Bengaluru, Karnataka*  
 🗓 *Jan 2024 – Jan 2025*  
   - Designed a custom multi-task model that simultaneously addresses multiple objectives, enhancing predictive capabilities and operational efficiency.🧠📊
