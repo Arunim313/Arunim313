@@ -54,7 +54,8 @@ I am currently exploring roles where I can apply my skills in Data Science, AI, 
 
 ## 🌐 Let's Connect
 
-- **LinkedIn**: [Arunim Malviya](https://www.linkedin.com/in/arunim-malviya-271ba5201/)
+<!-- Comment -->
+<!--- **LinkedIn**: [Arunim Malviya](https://www.linkedin.com/in/arunim-malviya-271ba5201/)-->
 - **GitHub**: [Arunim313](https://github.com/arunim313)
 - **Kaggle**: [Arunim Malviya](https://www.kaggle.com/arunimmalviya)
 
