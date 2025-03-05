@@ -72,7 +72,7 @@ I am currently exploring roles where I can apply my skills in Data Science, AI, 
         <img alt="Arunim Malviya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arunim313&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
     <a href="https://github.com/arunim313/github-readme-stats">
-        <img alt="Arunim Malviya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunim313&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+        <img alt="Arunim Malviya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunim313&langs_count=5&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
 </p>
 
